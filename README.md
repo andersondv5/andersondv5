@@ -8,7 +8,7 @@
 
 ---
 
-### 📊 Minhas Estatísticas no GitHub
+<h3 style="color:red;">📊 Minhas Estatísticas no GitHub</h3>
 <div align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=andersonsilva&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonsilva&layout=compact&langs_count=7&theme=radical"/>
@@ -16,13 +16,14 @@
 
 ---
 
-### 🌟 Minhas Habilidades
+<h3 style="color:red;">🌟 Minhas Habilidades</h3>
 <div>
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5">
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3">
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript">
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java">
 </div>
+
 
 ---
 
