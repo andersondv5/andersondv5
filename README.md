@@ -4,7 +4,7 @@
 - 🎓 Cursando o 2° período de Análise e Desenvolvimento de Sistemas
 - 📚 Atualmente aprendendo **Java** e melhorando minhas habilidades com **JavaScript**
 - 🚀 Foco em criar projetos minimalistas e com excelente experiência de usuário
-- 📬 Contato: **anderson.silva.dev@gmail.com**
+- 📬 Contato: **anderson.silvadev5@gmail.com**
 
 ---
 
