@@ -1,32 +1,41 @@
-# Olá 👋 meu nome é Anderson Silva!
+# 👋 Olá! Meu nome é Anderson Silva
 
-- 💻 Desenvolvedor web focado em front-end e back-end
-- 🎓 Cursando o 2° período de Análise e Desenvolvimento de Sistemas
-- 📚 Atualmente aprendendo **Java** e melhorando minhas habilidades com **JavaScript**
-- 🚀 Foco em criar projetos minimalistas e com excelente experiência de usuário
-- 📬 Contato: **anderson.silvadev5@gmail.com**
+Sou um desenvolvedor front-end apaixonado por criar interfaces web intuitivas e funcionais. Sempre estou aprimorando minhas habilidades e compartilhando conhecimento com a comunidade.
 
----
+## 🚀 Tecnologias e Ferramentas
 
-<h3 style="color:red;">📊 Minhas Estatísticas no GitHub</h3>
-<div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=andersonsilva&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonsilva&layout=compact&langs_count=7&theme=radical"/>
-</div>
+- **Linguagens:**  
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
+  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)  
+  ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)  
+  ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)  
 
----
+- **Frameworks e Bibliotecas:**  
+  ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)  
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)  
+  ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)  
 
-<h3 style="color:red;">🌟 Minhas Habilidades</h3>
-<div>
-  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5">
-  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3">
-  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript">
-  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java">
-</div>
+- **Ferramentas de Desenvolvimento:**  
+  ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)  
+  ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white)  
+  ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)  
+  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)  
 
+## 📈 Estatísticas do GitHub
 
----
+![Estatísticas do GitHub de Anderson Silva](https://github-readme-stats.vercel.app/api?username=andersondv5&show_icons=true&theme=dracula)
 
-### 📬 Entre em contato
-<a href="mailto:anderson.silva.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/anderson-silvadev/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+## 🌟 Repositórios em Destaque
+
+[![Trabalho de Desenvolvimento Web 1](https://github-readme-stats.vercel.app/api/pin/?username=andersondv5&repo=trabalho-dev-web&theme=dracula)](https://github.com/andersondv5/trabalho-dev-web)
+
+[![Lock-In](https://github-readme-stats.vercel.app/api/pin/?username=andersondv5&repo=Lock-In&theme=dracula)](https://github.com/andersondv5/Lock-In)
+
+[![Listagem de Produtos](https://github-readme-stats.vercel.app/api/pin/?username=andersondv5&repo=Listagem-de-produtos&theme=dracula)](https://github.com/andersondv5/Listagem-de-produtos)
+
+## 📫 Como Entrar em Contato
+
+- **LinkedIn:** [anderson-silvadev](https://www.linkedin.com/in/anderson-silvadev)
+- **Instagram:** [anderson.silva300](https://www.instagram.com/anderson.silva300)
+
+Estou sempre aberto a novas oportunidades e colaborações. Vamos conectar e construir algo incrível juntos! 🚀
