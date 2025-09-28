@@ -30,5 +30,9 @@ Atualmente, contribuo no desenvolvimento da plataforma **[LockIn](https://github
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=andersondv5&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andersondv5&layout=compact&theme=radical)
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=andersondv5&show_icons=true&theme=radical" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersondv5&layout=compact&theme=radical" /></td>
+  </tr>
+</table>
