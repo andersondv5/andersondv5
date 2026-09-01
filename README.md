@@ -1,38 +1,56 @@
 # Olá, eu sou Anderson Silva 👋
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas**, com foco em **Desenvolvimento Full-Stack**.
+💻 **Desenvolvedor Full-Stack | TI | Automação**
 
-Atualmente, contribuo no desenvolvimento da plataforma **[LockIn](https://github.com/link-do-seu-projeto)**, um sistema de gerenciamento de trancas eletrônicas.
+Sou estudante de **Análise e Desenvolvimento de Sistemas** e profissional de **Tecnologia da Informação**, atualmente atuando como **Coordenador de TI**.
 
----
+Minha experiência envolve **desenvolvimento de sistemas, suporte técnico, infraestrutura, redes, bancos de dados e automação de processos**. No dia a dia, busco transformar problemas reais em soluções simples, organizadas e eficientes.
 
-## Contato
+### 🚀 Atualmente
 
-- **LinkedIn:** [Anderson Silva](https://www.linkedin.com/in/anderson-silvadev/)  
-- **E-mail:** [anderson.silvadev5@gmail.com](mailto:anderson.silvadev5@gmail.com)
+* 🐍 Desenvolvendo soluções com **Python, Flask e Django**
+* 🌐 Desenvolvendo aplicações **Web e APIs**
+* 🗄️ Trabalhando com **SQLite, PostgreSQL e SQL**
+* 🤖 Automatizando processos e tarefas repetitivas
+* 🖥️ Atuando com **infraestrutura, redes, servidores e suporte**
+* 📚 Finalizando minha graduação em **Análise e Desenvolvimento de Sistemas**
 
----
+### 🛠️ Tecnologias
 
-## Minhas Skills
+**Back-end:**
+`Python` `Flask` `Django` `Java`
 
-### Back-End
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="Python"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/django/django.png" alt="Django"/></code>
-<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-256/java-60-1174953.png" alt="Java"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png" alt="SQL"/></code>
+**Front-end:**
+`HTML` `CSS` `JavaScript` `Tailwind CSS` `Bootstrap`
 
-### Front-End
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="JavaScript"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/tailwind/tailwind.png" alt="Tailwind"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
+**Banco de Dados:**
+`SQLite` `PostgreSQL` `SQL`
 
----
+**Ferramentas:**
+`Git` `GitHub` `Linux`
 
-## GitHub Stats
+### 📊 GitHub
 
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=andersondv5&show_icons=true&theme=radical" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersondv5&layout=compact&theme=radical" /></td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=andersondv5&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersondv5&layout=compact&theme=radical" />
+    </td>
   </tr>
 </table>
+
+### 📫 Contato
+
+* 💼 **LinkedIn:** [Anderson Silva](https://www.linkedin.com/in/anderson-silvadev/)
+* 📧 **E-mail:** [anderson.silvadev5@gmail.com](mailto:anderson.silvadev5@gmail.com)
+
+---
+
+<div align="center">
+
+**Transformando problemas reais em soluções através da tecnologia. 🚀**
+
+</div>
