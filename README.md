@@ -2,7 +2,7 @@
 
 💻 **Desenvolvedor Full-Stack | TI | Automação**
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** e profissional de **Tecnologia da Informação**, atualmente atuando como **Coordenador de TI**.
+Sou estudante de **Análise e Desenvolvimento de Sistemas** e profissional de **Tecnologia da Informação**, atualmente atuando como **analista de TI** em uma unidade Hospitalar.
 
 Minha experiência envolve **desenvolvimento de sistemas, suporte técnico, infraestrutura, redes, bancos de dados e automação de processos**. No dia a dia, busco transformar problemas reais em soluções simples, organizadas e eficientes.
 
