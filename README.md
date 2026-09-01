@@ -45,7 +45,7 @@ Minha experiência envolve **desenvolvimento de sistemas, suporte técnico, infr
 ### 📫 Contato
 
 * 💼 **LinkedIn:** [Anderson Silva](https://www.linkedin.com/in/anderson-silvadev/)
-* 📧 **E-mail:** [anderson.silvadev5@gmail.com](mailto:anderson.dev.work@gmail.com)
+* 📧 **E-mail:** [anderson.dev.work@gmail.com](mailto:anderson.dev.work@gmail.com)
 
 ---
 
